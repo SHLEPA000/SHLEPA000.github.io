@@ -1,0 +1,35 @@
+
+p{
+margin:0 ;
+padding: 0;
+box-sizing:border-box;
+}
+		p{
+            color:#8EF13C;
+            font-size:40px ;
+        }
+	h1{
+     color:red ;
+     font-size: 60px;
+     font-family: times new roman;
+     text-align:center ;
+ }
+ img{
+ 	max-width:80% ;
+ 	height:auto;
+ 	display:block;
+    text-align:center;
+    margin: 40px;
+ }
+ div{
+width:80% ;
+margin:auto;
+background-color:black ;
+box-shadow: 0 0 80px 5px rgba(0, 255, 0);
+ }
+ a{
+    font-size:100px;
+    color:yellow ;
+ }
+
+
